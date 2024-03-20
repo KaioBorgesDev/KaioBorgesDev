@@ -12,13 +12,15 @@ Olá! 👋 Sou Kaio Borges, um entusiasta de desenvolvimento que está buscando 
 
 ## Projetos Destacados
 
-### [Spring Boot PostgreSQL, PostMan]
+### [Daivu - Desktop/Web Perfumaria]
+### [App Barber - App de Servicos (Android)]
+### [Descomplica - Web]
 
 
 ## Aprendendo Atualmente
 
 - 🌱 Aprofundando conhecimentos em Spring Boot
-- 🌐 Explorando mais sobre AWS Services
+- 🌐 Explorando mais sobre FireBase
 - ⚙️ Aprimorando habilidades em C#
 
 ## Como Entrar em Contato
