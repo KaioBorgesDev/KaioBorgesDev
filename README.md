@@ -13,8 +13,8 @@ Olá! 👋 Sou Kaio Borges, um entusiasta de desenvolvimento que está buscando 
 ## Projetos Destacados
 
 ### [Daivu - Desktop/Web Perfumaria]
-### [App Barber - App de Servicos (Android)]
-### [Descomplica - Web]
+### [Pixel Place - Web]
+### [PadariaJJM - Desktop]
 
 
 ## Aprendendo Atualmente
