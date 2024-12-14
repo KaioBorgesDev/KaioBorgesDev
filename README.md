@@ -5,13 +5,13 @@ Olá! 👋 Sou Kaio Borges, um entusiasta de desenvolvimento que está buscando 
 ## Habilidades
 
 - 💻 Desenvolvimento Web: HTML, CSS, JavaScript/TypeScript, React Native / ReactJS 
-- 🚀 Tecnologias Backend: Java, C#, PHP, C
-- 📊 Frameworks: .NET, SpringBoot, Laravel.
-- ☁️ Cloud Computing: Microsoft Azure e alguns conceitos do AWS
-- 📊 Bancos de Dados: PostgreSQL, MySQL, Firebase.
+- 🚀 Tecnologias Backend: Java, C#, PHP, C, NodeJS
+- 📊 Frameworks: .NET, SpringBoot, Laravel, ExpressJS.
+- ☁️ Cloud Computing: Microsoft Azure e AWS
+- 📊 Bancos de Dados: PostgreSQL, MySQL, MongoDB.
 - 💻 Desenvolvimento Mobile - Android, React Native
 - ☁️ Containers: Docker
-- 🌐 APIs: RESTful
+
 
 ## Projetos Destacados
 
@@ -23,7 +23,6 @@ Olá! 👋 Sou Kaio Borges, um entusiasta de desenvolvimento que está buscando 
 ## Aprendendo Atualmente
 
 - 🌱 Balanceadores de carga
-- 🌐 
 - ⚙️ Aprimorando conhecimento em Docker
 
 ## Como Entrar em Contato
