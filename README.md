@@ -20,11 +20,6 @@ Olá! 👋 Sou Kaio Borges, um entusiasta de desenvolvimento que está buscando 
 ### [PadariaJJM - Desktop]
 
 
-## Aprendendo Atualmente
-
-- 🌱 Balanceadores de carga
-- ⚙️ Aprimorando conhecimento em Docker
-
 ## Como Entrar em Contato
 
 - 📧 Email: kaioeduardo401@outlook.com
