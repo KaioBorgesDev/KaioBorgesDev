@@ -1,5 +1,4 @@
-# Kaio Borges - Desenvolvedor em Aprendizado
-
+# Kaio Borges - Desenvolvedor Junior 
 Olá! 👋 Sou Kaio Borges, um entusiasta de desenvolvimento que está buscando oportunidades para aprimorar minhas habilidades e contribuir para projetos interessantes.
 
 ## Habilidades
