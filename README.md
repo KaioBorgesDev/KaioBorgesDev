@@ -5,19 +5,12 @@ Olá! 👋 Sou Kaio Borges, um entusiasta de desenvolvimento que está buscando 
 
 - 💻 Desenvolvimento Web: HTML, CSS, JavaScript/TypeScript, React Native / ReactJS 
 - 🚀 Tecnologias Backend: Java, C#, PHP, C, NodeJS
-- 📊 Frameworks: .NET, SpringBoot, Laravel, ExpressJS.
-- ☁️ Cloud Computing: Microsoft Azure e AWS
+- 📊 Frameworks/Plataformas: .NET, SpringBoot, Laravel, ExpressJS.
+- ☁️ Cloud Computing: Microsoft Azure e AWS 
 - 📊 Bancos de Dados: PostgreSQL, MySQL, MongoDB.
 - 💻 Desenvolvimento Mobile - Android, React Native
 - ☁️ Containers: Docker
-
-
-## Projetos Destacados
-
-### [Senai Game - Web / Mobile]
-### [Daivu - Desktop/Web Perfumaria]
-### [PadariaJJM - Desktop]
-
+- 📊 Ferramentas de Observação: Elastic Observability
 
 ## Como Entrar em Contato
 
